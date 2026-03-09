@@ -1,0 +1,26 @@
+{
+  "name": "Namso-Farming-Bot",
+  "version": "1.0.0",
+  "description": "Auto farming bot for Namso Network featuring WASM simulation, auto check-in, tasks completion, and RPS mini-game.",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js",
+    "install-deps": "npm install"
+  },
+  "keywords": [
+    "namso",
+    "namso-network",
+    "airdrop",
+    "farming-bot",
+    "automation"
+  ],
+  "author": "Quest Airdrop",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.9.0",
+	"dotenv": "^17.3.1",
+    "got-scraping": "^4.0.0",
+    "tough-cookie": "^4.1.3"
+  }
+}
