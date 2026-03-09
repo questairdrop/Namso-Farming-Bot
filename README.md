@@ -7,7 +7,7 @@ An advanced automated bot for **Namso Network** that handles authentication, sma
 
 👉 **Join Namso Network here:** https://app.namso.network/dashboard/
 
-> 🙏 **Support the project — use referral code: `DDD6F8440E87` when signing up!**
+> 🙏 **Support the project — use referral code: `2E2D9F5F27A8` when signing up!**
 
 ---
 
